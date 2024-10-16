@@ -1,7 +1,6 @@
 # Vue Forum
 
 Simple and beautiful forum software - created using Express, Vue, and Sequelize.    
-[Click here](https://vue-forum.herokuapp.com) for a link to the demo.
 
 ## Features
 * Mobile ready single-page application
